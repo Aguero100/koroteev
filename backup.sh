@@ -1,4 +1,4 @@
 import numpy
 import pandas 
-<script>
-"Исправление"
+cript>
+справление"
